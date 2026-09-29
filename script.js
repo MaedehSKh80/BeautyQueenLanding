@@ -9,7 +9,7 @@
   id, تاریخ, نام و نام خانوادگی, شماره تماس, ایمیل, تایتل, توضیحات, بررسی وضعیت
 */
 const GAS_WEB_APP_URL =
-  "https://script.google.com/macros/s/AKfycbw3mR6PqaSBUsc0KZssBnXkrLM8DhjQpJuvIS3VztK8cTIeAf7pIZWXGUIasFzonbcS/exec";
+  "https://script.google.com/macros/s/AKfycbwDX6ro9NYE0uVMadwYyepWErIhyfYQl9a0hbRAJ1SGFCUGfec5Rp1HFh5GlH6wEI2B/exec";
 
 // Mobile menu
 const menuToggle = document.querySelector(".menu-toggle");
